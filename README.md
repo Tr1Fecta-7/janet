@@ -1,2 +1,2 @@
 # rjbBot
-Bot for the community discord of r/jailbreak
+Bot for the rubycry of patrick
